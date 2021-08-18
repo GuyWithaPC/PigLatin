@@ -1,1 +1,15 @@
+If you do these:
+  yeet -> eetyay
+  exit -> exityay
 
+An algorithm wouldn't know how to convert them back:
+  eetyay -> eet / yeet
+  exityay -> exit / yexit
+
+Even outside of the edge cases where a word starts with y, there are more problems:
+  thanks -> anksthay
+  anksthay -> thanks / sthank / ksthan / nkstha
+
+---------------------------------------------------------------------------------------------------------------------------------
+There is no way to tell what used to be the start of the word, and what used to be the end, once it's been turned into pig latin.
+---------------------------------------------------------------------------------------------------------------------------------
